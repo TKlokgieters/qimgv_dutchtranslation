@@ -327,77 +327,77 @@
     <message>
         <location filename="../../gui/panels/croppanel/croppanel.ui" line="107"/>
         <source>Selection</source>
-        <translation type="unfinished"></translation>
+        <translation>Selectie</translation>
     </message>
     <message>
         <location filename="../../gui/panels/croppanel/croppanel.ui" line="125"/>
         <source>Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Breedte</translation>
     </message>
     <message>
         <location filename="../../gui/panels/croppanel/croppanel.ui" line="161"/>
         <source>Height</source>
-        <translation type="unfinished"></translation>
+        <translation>Hoogte</translation>
     </message>
     <message>
         <location filename="../../gui/panels/croppanel/croppanel.ui" line="322"/>
         <source>Aspect Ratio</source>
-        <translation type="unfinished"></translation>
+        <translation>hoogte-breedteverhouding</translation>
     </message>
     <message>
         <location filename="../../gui/panels/croppanel/croppanel.ui" line="336"/>
         <source>Free</source>
-        <translation type="unfinished"></translation>
+        <translation>Vrij</translation>
     </message>
     <message>
         <location filename="../../gui/panels/croppanel/croppanel.ui" line="341"/>
         <source>Custom</source>
-        <translation type="unfinished"></translation>
+        <translation>Aangepast</translation>
     </message>
     <message>
         <location filename="../../gui/panels/croppanel/croppanel.ui" line="346"/>
         <source>Current Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Huidige Foto</translation>
     </message>
     <message>
         <location filename="../../gui/panels/croppanel/croppanel.ui" line="351"/>
         <source>This Screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Dit Scherm</translation>
     </message>
     <message>
         <location filename="../../gui/panels/croppanel/croppanel.ui" line="356"/>
         <source>1:1</source>
-        <translation type="unfinished"></translation>
+        <translation>1:1</translation>
     </message>
     <message>
         <location filename="../../gui/panels/croppanel/croppanel.ui" line="361"/>
         <source>4:3</source>
-        <translation type="unfinished"></translation>
+        <translation>4:3</translation>
     </message>
     <message>
         <location filename="../../gui/panels/croppanel/croppanel.ui" line="366"/>
         <source>16:9</source>
-        <translation type="unfinished"></translation>
+        <translation>16:9</translation>
     </message>
     <message>
         <location filename="../../gui/panels/croppanel/croppanel.ui" line="371"/>
         <source>16:10</source>
-        <translation type="unfinished"></translation>
+        <translation>16:10</translation>
     </message>
     <message>
         <location filename="../../gui/panels/croppanel/croppanel.ui" line="499"/>
         <source>Crop</source>
-        <translation type="unfinished"></translation>
+        <translation>Bijsnijden</translation>
     </message>
     <message>
         <location filename="../../gui/panels/croppanel/croppanel.ui" line="512"/>
         <source>Crop &amp;&amp; Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Bijsnijden &amp;&amp; Opslaan</translation>
     </message>
     <message>
         <location filename="../../gui/panels/croppanel/croppanel.ui" line="527"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Annuleren</translation>
     </message>
 </context>
 <context>
@@ -410,7 +410,7 @@
     <message>
         <location filename="../../gui/folderview/fvoptionspopup.ui" line="53"/>
         <source>View options</source>
-        <translation type="unfinished"></translation>
+        <translation>Opties weergeven</translation>
     </message>
 </context>
 <context>
@@ -1037,22 +1037,22 @@
     <message>
         <location filename="../../gui/overlays/saveconfirmoverlay.ui" line="81"/>
         <source>Unsaved edits</source>
-        <translation type="unfinished"></translation>
+        <translation>Niet opgeslagen wijzigingen</translation>
     </message>
     <message>
         <location filename="../../gui/overlays/saveconfirmoverlay.ui" line="127"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan</translation>
     </message>
     <message>
         <location filename="../../gui/overlays/saveconfirmoverlay.ui" line="140"/>
         <source>Save as</source>
-        <translation type="unfinished"></translation>
+        <translation>Opslaan als</translation>
     </message>
     <message>
         <location filename="../../gui/overlays/saveconfirmoverlay.ui" line="169"/>
         <source>Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>Weggooien</translation>
     </message>
 </context>
 <context>
@@ -1204,17 +1204,17 @@
     <message>
         <location filename="../../gui/dialogs/settingsdialog.ui" line="699"/>
         <source>On</source>
-        <translation type="unfinished"></translation>
+        <translation>Aan</translation>
     </message>
     <message>
         <location filename="../../gui/dialogs/settingsdialog.ui" line="706"/>
         <source>Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Uit</translation>
     </message>
     <message>
         <location filename="../../gui/dialogs/settingsdialog.ui" line="713"/>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Automatisch</translation>
     </message>
     <message>
         <location filename="../../gui/dialogs/settingsdialog.ui" line="753"/>
@@ -1955,27 +1955,27 @@ li.checked::marker { content: &quot;\2612&quot;; }
     <message>
         <location filename="../../gui/dialogs/shortcutcreatordialog.ui" line="14"/>
         <source>New shortcut</source>
-        <translation type="unfinished"></translation>
+        <translation>Nieuwe snelkoppeling</translation>
     </message>
     <message>
         <location filename="../../gui/dialogs/shortcutcreatordialog.ui" line="34"/>
         <source>Action:</source>
-        <translation type="unfinished"></translation>
+        <translation>Actie:</translation>
     </message>
     <message>
         <location filename="../../gui/dialogs/shortcutcreatordialog.ui" line="73"/>
         <source>Script:</source>
-        <translation type="unfinished"></translation>
+        <translation>Script:</translation>
     </message>
     <message>
         <location filename="../../gui/dialogs/shortcutcreatordialog.ui" line="117"/>
         <source>Shortcut:</source>
-        <translation type="unfinished"></translation>
+        <translation>Snelkoppeling:</translation>
     </message>
     <message>
         <location filename="../../gui/dialogs/shortcutcreatordialog.ui" line="124"/>
         <source>[Enter shortcut]</source>
-        <translation type="unfinished"></translation>
+        <translation>[Snelkoppeling invoeren]</translation>
     </message>
 </context>
 <context>
